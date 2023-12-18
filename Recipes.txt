@@ -6,3 +6,4 @@ Welcome to devcent kitchen
 
 pasta
 omlet
+chicken fry
